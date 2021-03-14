@@ -98,7 +98,8 @@ mixins
 header
 *********************/
 header {
-    background: linear-gradient(rgba($gray, 0.1), rgba($gray, 0.1)),url(../img/header.jpg);
+    $padding:$padding;
+    background: linear-gradient(rgba($white, 0.1), rgba($white, 0.1)),url(../img/header.jpg);
     background-position: center;
     background-size: cover;
     height: 60vh;

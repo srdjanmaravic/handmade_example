@@ -87,8 +87,8 @@ mixins
 header
 *********************/
 header {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(64, 64, 64, 0.1)), to(rgba(64, 64, 64, 0.1))), url(../img/header.jpg);
-  background: linear-gradient(rgba(64, 64, 64, 0.1), rgba(64, 64, 64, 0.1)), url(../img/header.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url(../img/header.jpg);
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url(../img/header.jpg);
   background-position: center;
   background-size: cover;
   height: 60vh;
